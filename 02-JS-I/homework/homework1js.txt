@@ -1,0 +1,14 @@
+Variable: Una variable es una forma de almacenar el valor de algo para usar más tarde. Este algo es un dato que 
+puede ser de algún tipo como una cadena de texto, un número, un booleano, un arreglo o array, entre otros.
+String:Los “strings” son cadenas de texto (palabras o frases), se definen entre comillas simples o dobles.
+Funciones:Són tipos particulares de Objetos, llamados callable objects u objetos invocables, por lo tanto tienen las mismas propiedades que
+cualquier objeto. Una función es la parte de un programa o  una subrutina que permite resolver una tarea específica y es invocada a través de 
+su nombre. Algunos de los componentes que tiene una función son los parámetros, que son los valores que recibe la función como entrada y a los
+cuales se los empleará para hacer una determinada operación o acción y otro componente es el valor de retorno (return) que es el resultado final
+que devuelve una función, es la única forma en la que los datos pueden escapar ella y una vez que se ejecuta el return la función detiene de
+manera inmediata lo que está haciendo.
+If: es una de las formas de control de flujo que existe en programación, es una forma para verificar si algo es verdadero, y de ser así 
+sea ejecutando el código suministrado si es así o avanzando si no lo es.
+Booleanos: Los booleanos provienen de la lógica de Boole. Es un concepto que se relaciona con el código binario y el núcleo de las computadoras. 
+Esencialmente hay dos opciones,activar o desactivar, 0 o 1, verdadero o falso. En Javascript se usan los booleanos para saber si algo es 
+verdadero o falso y ejecutar cierto código segun la condición dada.

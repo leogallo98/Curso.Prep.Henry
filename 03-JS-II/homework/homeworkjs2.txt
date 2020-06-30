@@ -1,0 +1,9 @@
+For: es un bucle, es decir, una estructura que repite un código con instrucciones la cantidad de veces que le 
+indiquemos. Estos bucles evaluan expresiones una y otra vez hasta que devuelve lo que estamos buscando o se
+detiene hasta que la condicion sea falsa. For esta conformado por una variable, una expresion condicional
+en donde el ciclo continuará hasta que esa declaracion sea falsa y por último el incremento de la variable.
+`&&`, `||`, `!`: estos 3 simbolos son operadores lógicos que sirven para comparar expresiones y evaluar 
+si son falsas o verdaderas. El operador AND representado de esta manera: && evalúa las expresiones y 
+devuelve true si ambas son verdaderas, si una de ellas es falsa devuelve false. El operador OR (||)devuelve
+true si una o ambas expresiones es verdadera y el operador NOT (!) devolverá el valor booleano opuesto de lo
+que se le pase en el momento.

@@ -1,0 +1,13 @@
+Objetos: los objetos son aquellos que contienen mucha información sobre una sola cosa, cada una de estas
+contienen propiedades con sus respectivos valores.Los objetos se instancian usando llaves.   
+Propiedades: es una asociación entre ununa clave y un valor, las propiedades son como variables
+pertenecientes a un objeto.
+Métodos: son las funciones guardadas dentro de un objeto.
+Bucle for…in:comienza igual que un bulce for, entre paréntesis declararemos una variable, la palabra clave in
+y el nombre del objeto. Esto recorrerá cada propiedad del objeto y finalizará cuando se hayan iterado todas
+las claves
+Notación de puntos vs notación de corchetes: tanto la notación de puntos como la de corchetes son dos formas
+de poder acceder a los varlores de las claves de un objeto usando puntos o corchetes. Con la de puntos hay 
+que llamar al nombre del objeto, colocar un punto y el nombre de la clave y con la notación de corchetes es
+como llamar a un elemento en una matriz y debemos usar una cadena o número, o una variable que apunte a una 
+cadena o número. Se puede llamar a cada clave envolviéndola con comillas.

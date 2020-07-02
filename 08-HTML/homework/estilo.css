@@ -1,0 +1,17 @@
+.lista{
+    list-style: none;
+}
+h1{
+    color:yellowgreen;
+}
+#thirdDiv{
+    height: 800px; /*la altura y el ancho no corresponden al ejercico pero lo hice asi porque el ancho de la */
+    width: 600px;/*foto hacia que se desbordaran del div*/
+    background-color: rgb(218, 206, 42);
+    padding: 50px;
+    border:2px solid red ;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}

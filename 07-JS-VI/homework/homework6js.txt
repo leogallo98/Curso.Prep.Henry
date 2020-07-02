@@ -1,0 +1,4 @@
+Funciones Callback:son funciones que se pasan como parámetros de otras funciones y que se ejecutan dentro de 
+éstas. Este tipo de funciones se utilizan por ejemplo cuando se trabaja con arrays y se usan métodos como
+forEach  o  map , pasando una función como parámetro de otra, que se ejecuta por cada uno de los elementos del
+array.
